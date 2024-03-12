@@ -1,0 +1,11 @@
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Mert Can\Desktop\code\MaskApp\Entity\obj\Debug\net8.0\ref\Entity.dll

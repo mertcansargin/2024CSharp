@@ -1,0 +1,35 @@
+﻿@using Entity.Concrete
+@model List<Person>
+@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>Index</title>
+</head>
+<body>
+
+	<table class="table table-bordered">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Surname</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var x in Model)
+			{
+				<tr>
+					<td>@x.PersonName</td>
+					<td>@x.PersonSurname</td>
+				</tr>
+			}
+
+		</tbody>
+	</table>
+</body>
+</html>
